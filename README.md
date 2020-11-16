@@ -8,6 +8,7 @@
   Under the guidance of my faculty Mr. Vivek Kumar.
   
   This is basic implementation of a Mafia game in java.
+  
   The rules of the Mafia Game are as follows:
   
   Plot: There is a village of N players. A player can be either a commoner, a detective, a healer,
